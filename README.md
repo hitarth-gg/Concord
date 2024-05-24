@@ -14,7 +14,7 @@ Events Calendar (Frontend + Backend), Elementary Backend with JWT Auth, Bcrypt a
 Complete Landing Page, Contributed in dashboard, Finalised Login.js and Signup.js, Data Management/Handling(State Management) from backend, Contributed to Deployment.
 
 ### Ansh Agrawal : 
-Dashboard, Profile Page
+Complete Profile page, Contributed in dashboard frontend, Finalised Signup page and added feature to send welcome email upon signup. Worked towards Data and state management from backend. Handled react integration and minor CSS clashes upon merging. 
 
 ### Vishal Parida : 
 Designed complete frontend + backend including integration and data handling for the "Forum page" and the "Task page", Designed overall project blueprint, Contributed to designing the DFD and AWS deployment.
